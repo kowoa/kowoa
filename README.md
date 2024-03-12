@@ -11,7 +11,7 @@
 
 ### 🔭 What I'm currently working on
 
-- [vulkaning](https://github.com/kowoa/vulkaning), a renderer made using Vulkan and Rust
+- [Kovra](https://github.com/kowoa/kovra), a renderer made with Vulkan and C++
 - [Lockjaw](https://store.steampowered.com/app/2782270/Lockjaw_RoboRoyale/), a local-multiplayer party brawler game where 2-4 robots fight to win a ROBO-ROYALE!
 
 ### 📫 How to reach me
