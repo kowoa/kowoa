@@ -1,5 +1,5 @@
 <h1 align="center">Khoa Hoang</h1>
-<h3 align="center">『 CS Undergrad 』 『 He/Him 』</h3>
+<h3 align="center">『 Software Engineer 』 『 He/Him 』</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-henna-one.vercel.app?user=kowoa&theme=dark&hide_border=true&background=DD272700" alt="GitHub Streak" /></a>
@@ -8,11 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kowoa&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowoa&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 </p>
-
-### 🔭 What I'm currently working on
-
-- [Kovra](https://github.com/kowoa/kovra), a renderer made with Vulkan and C++
-- [Lockjaw](https://store.steampowered.com/app/2782270/Lockjaw_RoboRoyale/), a local-multiplayer party brawler game where 2-4 robots fight to win a ROBO-ROYALE!
 
 ### 📫 How to reach me
 
